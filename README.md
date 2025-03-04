@@ -1,7 +1,7 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Nimitr Suwannasri!
 
 ### 🚀 Tech Stack:
-- **Frontend:** Next.js, React, TypeScript, NextUI
+- **Frontend:** Next.js, React, TypeScript, HeroUI
 - **Backend:** Node.js, Prisma, Drizzle ORM
 - **Database:** MySQL
 - **Auth:** Auth.js
