@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**NimitTH/NimitTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tech Stack:
+- **Frontend:** Next.js, React, TypeScript, NextUI
+- **Backend:** Node.js, Prisma, Drizzle ORM
+- **Database:** MySQL
+- **Auth:** Auth.js
+- **Other:** Axios, ShadCN
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)
